@@ -1,6 +1,6 @@
 # Entrega de Proyecto - Actividad M1
 
-Este proyecto fue realizado como presentación de la **Actividad M1** de la **Academia Java + Springboot**, dictada por **Softtek** en conjunto con la **Universidad Siglo-XII**. El objetivo del proyecto consistió por un lado, en la configuración de las variables de entorno `JAVA_HOME` `MAVEN_HOME`, junto con sus `PATH` y en la creación de un algoritmo simple en Java que suma dos números y muestra el resultado por consola.
+Este proyecto fue realizado como presentación de la **Actividad M1** de la **Academia Java + Springboot**, dictada por **Softtek** en conjunto con la **Universidad Siglo-XXI**. El objetivo del proyecto consistió por un lado, en la configuración de las variables de entorno `JAVA_HOME` `MAVEN_HOME`, junto con sus `PATH` y en la creación de un algoritmo simple en Java que suma dos números y muestra el resultado por consola.
 
 ## Configuración de las variables de entorno:
 
